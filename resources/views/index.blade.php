@@ -1,4 +1,6 @@
 <x-layout title="IPSR Security - ระบบรักษาความปลอดภัยและบริหารอาคารอัจฉริยะ">
+
+    test
     <!-- Hero Section -->
     <x-hero />
 
